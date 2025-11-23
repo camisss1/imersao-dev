@@ -1,0 +1,2136 @@
+[
+  {
+    "nome": "O Poderoso Chefão",
+    "descricao": "O patriarca envelhecido de uma dinastia do crime organizado transfere o controle de seu império clandestino para seu filho relutante.",
+    "data_criacao": "1972",
+    "genero": "Crime",
+    "link": "https://www.rottentomatoes.com/m/godfather",
+    "tags": [
+      "Máfia",
+      "Clássico",
+      "Drama",
+      "Épico",
+      "Intenso",
+      "Violento",
+      "Obras-primas",
+      "Família"
+    ],
+    "diretor": "Francis Ford Coppola"
+  },
+  {
+    "nome": "Pulp Fiction: Tempo de Violência",
+    "descricao": "As vidas de dois assassinos da máfia, um boxeador, a esposa de um gangster e um par de assaltantes de lanchonete se entrelaçam em quatro contos de violência e redenção.",
+    "data_criacao": "1994",
+    "genero": "Neo-Noir",
+    "link": "https://www.rottentomatoes.com/m/pulp_fiction",
+    "tags": [
+      "Cult",
+      "Diálogos afiados",
+      "Comédia obscura",
+      "Não linear",
+      "Violência estilizada",
+      "Influente",
+      "Policial"
+    ],
+    "diretor": "Quentin Tarantino"
+  },
+  {
+    "nome": "Parasita",
+    "descricao": "A família Kim, desempregada, se infiltra na vida da rica família Park, iniciando uma cadeia de eventos inesperados e revelações chocantes.",
+    "data_criacao": "2019",
+    "genero": "Comédia de Sátira Social",
+    "link": "https://www.rottentomatoes.com/m/parasite_2019",
+    "tags": [
+      "Vencedor do Oscar",
+      "Tenso",
+      "Crítica social",
+      "Thriller",
+      "Drama",
+      "Inovador",
+      "Coreano",
+      "Instigante"
+    ],
+    "diretor": "Bong Joon-ho"
+  },
+  {
+    "nome": "A Viagem de Chihiro",
+    "descricao": "Uma garota de 10 anos se perde em um mundo espiritual, onde seus pais são transformados em porcos. Ela precisa trabalhar em uma casa de banho para tentar libertá-los e retornar ao mundo humano.",
+    "data_criacao": "2001",
+    "genero": "Animação",
+    "link": "https://www.rottentomatoes.com/m/spirited_away",
+    "tags": [
+      "Fantasia",
+      "Mágico",
+      "Aventura",
+      "Studio Ghibli",
+      "Desenho",
+      "Oscarizado",
+      "Infantil"
+    ],
+    "diretor": "Hayao Miyazaki"
+  },
+  {
+    "nome": "2001: Uma Odisseia no Espaço",
+    "descricao": "A humanidade encontra um misterioso monólito enterrado sob a superfície lunar, desencadeando uma viagem espacial que resultará em uma confrontação com a inteligência artificial HAL 9000.",
+    "data_criacao": "1968",
+    "genero": "Ficção Científica",
+    "link": "https://www.rottentomatoes.com/m/2001_a_space_odyssey",
+    "tags": [
+      "Clássico",
+      "Espacial",
+      "Visionário",
+      "Cerebral",
+      "Inteligência artificial",
+      "Épico",
+      "Filosofia"
+    ],
+    "diretor": "Stanley Kubrick"
+  },
+  {
+    "nome": "Cidade de Deus",
+    "descricao": "Uma visão da vida no crime organizado do subúrbio carioca, contada através dos olhos de Buscapé, um jovem que deseja se tornar fotógrafo.",
+    "data_criacao": "2002",
+    "genero": "Drama Policial",
+    "link": "https://www.rottentomatoes.com/m/city_of_god",
+    "tags": [
+      "Brasileiro",
+      "Tenso",
+      "Realista",
+      "Violência",
+      "Favela",
+      "Aclamado",
+      "Ação"
+    ],
+    "diretor": "Fernando Meirelles"
+  },
+  {
+    "nome": "Mad Max: Estrada da Fúria",
+    "descricao": "Em um futuro distópico no deserto, uma mulher se rebela contra um tirano, levando um grupo de prisioneiras. Max Rockatansky é forçado a ajudá-la.",
+    "data_criacao": "2015",
+    "genero": "Ação",
+    "link": "https://www.rottentomatoes.com/m/mad_max_fury_road",
+    "tags": [
+      "Pós-apocalíptico",
+      "Adrenalina",
+      "Visualmente impressionante",
+      "Frenético",
+      "Ficção científica",
+      "Feminismo",
+      "Aventura"
+    ],
+    "diretor": "George Miller"
+  },
+  {
+    "nome": "O Fabuloso Destino de Amélie Poulain",
+    "descricao": "Amélie, uma jovem parisiense tímida e imaginativa, decide intervir nas vidas das pessoas ao seu redor para torná-las mais felizes, enquanto procura seu próprio amor.",
+    "data_criacao": "2001",
+    "genero": "Comédia Romântica",
+    "link": "https://www.rottentomatoes.com/m/amelie",
+    "tags": [
+      "Francês",
+      "Charmoso",
+      "Otimista",
+      "Caprichoso",
+      "Doce",
+      "Leve",
+      "Visualmente rico"
+    ],
+    "diretor": "Jean-Pierre Jeunet"
+  },
+  {
+    "nome": "Gladiador",
+    "descricao": "Um general romano leal é traído e sua família é assassinada por um imperador corrupto. Ele se torna um escravo e gladiador para buscar vingança.",
+    "data_criacao": "2000",
+    "genero": "Histórico",
+    "link": "https://www.rottentomatoes.com/m/gladiator",
+    "tags": [
+      "Épico",
+      "Ação",
+      "Vingança",
+      "Roma Antiga",
+      "Batalhas",
+      "Vencedor do Oscar",
+      "Drama"
+    ],
+    "diretor": "Ridley Scott"
+  },
+  {
+    "nome": "Brilho Eterno de Uma Mente Sem Lembranças",
+    "descricao": "Após um doloroso rompimento, Joel e Clementine se submetem a um procedimento para apagar todas as memórias que tinham um do outro.",
+    "data_criacao": "2004",
+    "genero": "Ficção Científica",
+    "link": "https://www.rottentomatoes.com/m/eternal_sunshine_of_the_spotless_mind",
+    "tags": [
+      "Romance",
+      "Inovador",
+      "Melancólico",
+      "Cerebral",
+      "Roteiro premiado",
+      "Complexo",
+      "Surpreendente"
+    ],
+    "diretor": "Michel Gondry"
+  },
+  {
+    "nome": "Casablanca",
+    "descricao": "Durante a Segunda Guerra Mundial, um cínico dono de boate americano em Casablanca deve escolher entre seu amor e ajudar sua antiga paixão e seu marido a escapar dos nazistas.",
+    "data_criacao": "1942",
+    "genero": "Drama Romântico",
+    "link": "https://www.rottentomatoes.com/m/casablanca",
+    "tags": [
+      "Clássico",
+      "Guerra",
+      "Romance trágico",
+      "Preto e branco",
+      "Diálogos icônicos",
+      "Inesquecível",
+      "Aventura"
+    ],
+    "diretor": "Michael Curtiz"
+  },
+  {
+    "nome": "Os Sete Samurais",
+    "descricao": "Um vilarejo de agricultores contrata sete samurais desempregados para protegê-los de bandidos que roubam sua colheita.",
+    "data_criacao": "1954",
+    "genero": "Aventura",
+    "link": "https://www.rottentomatoes.com/m/seven_samurai",
+    "tags": [
+      "Épico",
+      "Japonês",
+      "Clássico",
+      "Guerra",
+      "Influente",
+      "Ação",
+      "Preto e branco",
+      "Longo"
+    ],
+    "diretor": "Akira Kurosawa"
+  },
+  {
+    "nome": "A Lista de Schindler",
+    "descricao": "Na Polônia ocupada pelos nazistas, o empresário alemão Oskar Schindler gradualmente se preocupa com a situação de seus trabalhadores judeus e decide protegê-los do Holocausto.",
+    "data_criacao": "1993",
+    "genero": "Drama Histórico",
+    "link": "https://www.rottentomatoes.com/m/schindlers_list",
+    "tags": [
+      "Holocausto",
+      "Tocante",
+      "Preto e branco",
+      "Guerra",
+      "Vencedor do Oscar",
+      "Intenso",
+      "Realista",
+      "Triste"
+    ],
+    "diretor": "Steven Spielberg"
+  },
+  {
+    "nome": "O Silêncio dos Inocentes",
+    "descricao": "Uma jovem cadete do FBI deve buscar a ajuda de um brilhante, porém psicopata, canibal aprisionado para capturar um assassino em série que arranca a pele de suas vítimas.",
+    "data_criacao": "1991",
+    "genero": "Suspense",
+    "link": "https://www.rottentomatoes.com/m/silence_of_the_lambs",
+    "tags": [
+      "Thriller",
+      "Policial",
+      "Psicológico",
+      "Terror",
+      "Assassino em série",
+      "Vencedor do Oscar",
+      "Tenso"
+    ]
+  },
+  {
+    "nome": "Whiplash: Em Busca da Perfeição",
+    "descricao": "Um jovem e ambicioso baterista de jazz é pressionado ao limite por seu instrutor, um professor implacável de um conservatório de música de elite.",
+    "data_criacao": "2014",
+    "genero": "Drama Musical",
+    "link": "https://www.rottentomatoes.com/m/whiplash_2014",
+    "tags": [
+      "Intenso",
+      "Música",
+      "Perfecionismo",
+      "Performance",
+      "Tenso",
+      "Independente",
+      "Aclamado"
+    ],
+    "diretor": "Damien Chazelle"
+  },
+  {
+    "nome": "Onde Os Fracos Não Têm Vez",
+    "descricao": "Caçador de um jogo de caça a drogas se depara com uma mala cheia de dinheiro, o que o coloca na mira de um psicopata implacável.",
+    "data_criacao": "2007",
+    "genero": "Neo-Western",
+    "link": "https://www.rottentomatoes.com/m/no_country_for_old_men",
+    "tags": [
+      "Thriller",
+      "Sombrio",
+      "Violento",
+      "Instigante",
+      "Vencedor do Oscar",
+      "Oeste",
+      "Cínico"
+    ],
+    "diretor": "Joel e Ethan Coen"
+  },
+  {
+    "nome": "La La Land: Cantando Estações",
+    "descricao": "Uma aspirante a atriz e um músico de jazz sonhador se apaixonam enquanto tentam realizar seus sonhos em Los Angeles.",
+    "data_criacao": "2016",
+    "genero": "Musical",
+    "link": "https://www.rottentomatoes.com/m/la_la_land",
+    "tags": [
+      "Romance",
+      "Cores vibrantes",
+      "Dança",
+      "Sonhos",
+      "Melancólico",
+      "Visualmente deslumbrante",
+      "Hollywood"
+    ],
+    "diretor": "Damien Chazelle"
+  },
+  {
+    "nome": "Forrest Gump: O Contador de Histórias",
+    "descricao": "A saga de um homem simples, mas de bom coração, que testemunha e influencia muitos dos eventos históricos mais definidores da segunda metade do século XX.",
+    "data_criacao": "1994",
+    "genero": "Drama",
+    "link": "https://www.rottentomatoes.com/m/forrest_gump",
+    "tags": [
+      "Vencedor do Oscar",
+      "Inspirador",
+      "Comovente",
+      "Histórico",
+      "Épico",
+      "Inocente",
+      "Romance"
+    ],
+    "diretor": "Robert Zemeckis"
+  },
+  {
+    "nome": "Oldboy",
+    "descricao": "Após ser sequestrado e mantido em cativeiro por 15 anos sem motivo aparente, um homem é libertado e recebe cinco dias para descobrir a identidade de seu torturador.",
+    "data_criacao": "2003",
+    "genero": "Neo-Noir",
+    "link": "https://www.rottentomatoes.com/m/oldboy",
+    "tags": [
+      "Vingança",
+      "Coreano",
+      "Violento",
+      "Chocante",
+      "Ação intensa",
+      "Suspense psicológico",
+      "Cult"
+    ],
+    "diretor": "Park Chan-wook"
+  },
+  {
+    "nome": "O Labirinto do Fauno",
+    "descricao": "Na Espanha de 1944, a jovem Ofelia foge da crueldade da guerra para um mundo de fantasia, onde acredita ser uma princesa há muito perdida.",
+    "data_criacao": "2006",
+    "genero": "Fantasia Sombria",
+    "link": "https://www.rottentomatoes.com/m/pans_labyrinth",
+    "tags": [
+      "Espanhol",
+      "Guerra civil",
+      "Mágico",
+      "Adulto",
+      "Visualmente rico",
+      "Drama",
+      "Triste"
+    ],
+    "diretor": "Guillermo del Toro"
+  },
+  {
+    "nome": "Psicose",
+    "descricao": "Uma secretária rouba 40 mil dólares e se hospeda em um motel isolado, administrado por um jovem tímido dominado por sua mãe.",
+    "data_criacao": "1960",
+    "genero": "Terror Psicológico",
+    "link": "https://www.rottentomatoes.com/m/psycho",
+    "tags": [
+      "Clássico",
+      "Suspense",
+      "Preto e branco",
+      "Tensão",
+      "Influente",
+      "Sombrio",
+      "Assustador"
+    ],
+    "diretor": "Alfred Hitchcock"
+  },
+  {
+    "nome": "Trainspotting: Sem Limites",
+    "descricao": "A vida de Renton, um jovem desempregado de Edimburgo, e seu grupo de amigos, todos viciados em heroína, enquanto navegam pela marginalidade e buscam uma vida normal.",
+    "data_criacao": "1996",
+    "genero": "Comédia de Sátira Social",
+    "link": "https://www.rottentomatoes.com/m/trainspotting",
+    "tags": [
+      "Cult",
+      "Rebelde",
+      "Drogas",
+      "Britânico",
+      "Ácido",
+      "Visualmente ousado",
+      "Drama"
+    ],
+    "diretor": "Danny Boyle"
+  },
+  {
+    "nome": "A Chegada",
+    "descricao": "Quando naves alienígenas pousam por todo o mundo, uma linguista é recrutada pelo exército para determinar se os extraterrestres vieram em paz ou representam uma ameaça.",
+    "data_criacao": "2016",
+    "genero": "Ficção Científica",
+    "link": "https://www.rottentomatoes.com/m/arrival",
+    "tags": [
+      "Cerebral",
+      "Inteligente",
+      "Drama",
+      "Linguística",
+      "Emocional",
+      "Instigante",
+      "Aliens"
+    ],
+    "diretor": "Denis Villeneuve"
+  },
+  {
+    "nome": "A Separação",
+    "descricao": "Um casal iraniano enfrenta o divórcio enquanto lida com a doença do pai do marido e a crise de tentar deixar o país, desencadeando conflitos morais e legais.",
+    "data_criacao": "2011",
+    "genero": "Drama",
+    "link": "https://www.rottentomatoes.com/m/separation_2011",
+    "tags": [
+      "Iraniano",
+      "Vencedor do Oscar",
+      "Realista",
+      "Intenso",
+      "Questões morais",
+      "Divórcio",
+      "Aclamado pela crítica"
+    ],
+    "diretor": "Asghar Farhadi"
+  },
+  {
+    "nome": "O Tigre e o Dragão",
+    "descricao": "Uma espadachim lendária persegue uma ladra que roubou uma espada mágica, resultando em duelos de tirar o fôlego e romances escondidos.",
+    "data_criacao": "2000",
+    "genero": "Wuxia",
+    "link": "https://www.rottentomatoes.com/m/crouching_tiger_hidden_dragon",
+    "tags": [
+      "Artes Marciais",
+      "Ação",
+      "Chinês",
+      "Coreografado",
+      "Épico",
+      "Romance",
+      "Fantasia"
+    ],
+    "diretor": "Ang Lee"
+  },
+  {
+    "nome": "Um Sonho de Liberdade",
+    "descricao": "Dois homens presos se unem ao longo de vários anos, encontrando consolo e eventual redenção através de atos comuns de decência.",
+    "data_criacao": "1994",
+    "genero": "Drama",
+    "link": "https://www.rottentomatoes.com/m/shawshank_redemption",
+    "tags": [
+      "Prisão",
+      "Amizade",
+      "Drama",
+      "Inspirador",
+      "Clássico",
+      "Esperança",
+      "Adaptação de Stephen King",
+      "Intenso"
+    ],
+    "diretor": "Frank Darabont"
+  },
+  {
+    "nome": "Batman: O Cavaleiro das Trevas",
+    "descricao": "Com a ajuda do Tenente Jim Gordon e do promotor público Harvey Dent, Batman se propõe a desmantelar o crime organizado em Gotham. O trio é testado pelo Coringa, um gênio do crime anárquico que deseja levar a cidade ao caos.",
+    "data_criacao": "2008",
+    "genero": "Ação",
+    "link": "https://www.rottentomatoes.com/m/the_dark_knight",
+    "tags": [
+      "Super-herói",
+      "Ação",
+      "Thriller",
+      "Coringa",
+      "Épico",
+      "DC Comics",
+      "Filosofia",
+      "Tenso",
+      "Visualmente Impressivo"
+    ],
+    "diretor": "Christopher Nolan"
+  },
+  {
+    "nome": "A Origem",
+    "descricao": "Um ladrão que rouba segredos corporativos através do uso da tecnologia de compartilhamento de sonhos é encarregado de uma tarefa final: uma 'iniciação', a inserção de uma ideia na mente de um alvo.",
+    "data_criacao": "2010",
+    "genero": "Ficção Científica",
+    "link": "https://www.rottentomatoes.com/m/inception",
+    "tags": [
+      "Sonhos",
+      "Ação",
+      "Cérebro",
+      "Mundo complexo",
+      "Thriller",
+      "Original",
+      "Consciência",
+      "Nolan",
+      "Visualmente Estonteante"
+    ],
+    "diretor": "Christopher Nolan"
+  },
+  {
+    "nome": "Clube da Luta",
+    "descricao": "Um funcionário de escritório insone e um fabricante de sabão sem preocupações formam um clube da luta subterrâneo que evolui para algo muito, muito maior.",
+    "data_criacao": "1999",
+    "genero": "Drama",
+    "link": "https://www.rottentomatoes.com/m/fight_club",
+    "tags": [
+      "Cult",
+      "Psicológico",
+      "Reviravoltas",
+      "Drama",
+      "Sombrio",
+      "Violento",
+      "Sociedade",
+      "Reflexivo",
+      "Anarquia"
+    ],
+    "diretor": "David Fincher"
+  },
+  {
+    "nome": "Matrix",
+    "descricao": "Um programador de computador descobre que a realidade é uma simulação sofisticada criada por máquinas, e ele é o único que pode libertar a humanidade.",
+    "data_criacao": "1999",
+    "genero": "Ficção Científica",
+    "link": "https://www.rottentomatoes.com/m/matrix",
+    "tags": [
+      "Ciberpunk",
+      "Ação",
+      "Clássico Sci-Fi",
+      "Distopia",
+      "Efeitos Visuais",
+      "Bullet Time",
+      "Filosofia",
+      "Revolucionário",
+      "Adrenalina"
+    ],
+    "diretor": "Lana Wachowski, Lilly Wachowski"
+  },
+  {
+    "nome": "Os Bons Companheiros",
+    "descricao": "A vida de Henry Hill, desde a infância, crescendo na máfia, seu envolvimento com drogas e o eventual colapso de seus associados.",
+    "data_criacao": "1990",
+    "genero": "Crime",
+    "link": "https://www.rottentomatoes.com/m/goodfellas",
+    "tags": [
+      "Máfia",
+      "Biográfico",
+      "Violento",
+      "Escorsão",
+      "Clássico",
+      "Nova York",
+      "Drama Pesado",
+      "Scorsese"
+    ],
+    "diretor": "Martin Scorsese"
+  },
+  {
+    "nome": "Seven: Os Sete Crimes Capitais",
+    "descricao": "Dois detetives – um recém-chegado e um veterano prestes a se aposentar – caçam um serial killer que usa os sete pecados capitais como seus motivos.",
+    "data_criacao": "1995",
+    "genero": "Thriller",
+    "link": "https://www.rottentomatoes.com/m/seven",
+    "tags": [
+      "Serial Killer",
+      "Suspense",
+      "Noir",
+      "Sombrio",
+      "Cinéfilo",
+      "Intenso",
+      "Reviravolta",
+      "Crime",
+      "Investigação"
+    ],
+    "diretor": "David Fincher"
+  },
+  {
+    "nome": "Interestelar",
+    "descricao": "Exploradores intergalácticos viajam através de um buraco de minhoca na tentativa de garantir a sobrevivência da humanidade.",
+    "data_criacao": "2014",
+    "genero": "Ficção Científica",
+    "link": "https://www.rottentomatoes.com/m/interstellar",
+    "tags": [
+      "Espaço",
+      "Viagem Temporal",
+      "Nolan",
+      "Visualmente Grandioso",
+      "Emoção",
+      "Ciência",
+      "Épico",
+      "Sobrevivência",
+      "Drama Familiar"
+    ],
+    "diretor": "Christopher Nolan"
+  },
+  {
+    "nome": "Joker",
+    "descricao": "Arthur Fleck, um comediante de stand-up com problemas mentais e aspirante, é empurrado à loucura pela sociedade, transformando-se no gênio do crime conhecido como Coringa.",
+    "data_criacao": "2019",
+    "genero": "Thriller",
+    "link": "https://www.rottentomatoes.com/m/joker",
+    "tags": [
+      "Psicológico",
+      "Sombrio",
+      "Drama Social",
+      "Violento",
+      "Vencedor do Oscar",
+      "Quadrinhos",
+      "Gotham",
+      "Desconfortável"
+    ],
+    "diretor": "Todd Phillips"
+  },
+  {
+    "nome": "Princesa Mononoke",
+    "descricao": "Em sua busca por uma cura para uma maldição, o jovem príncipe Ashitaka se encontra no meio de uma guerra entre os deuses da floresta e uma colônia de mineração.",
+    "data_criacao": "1997",
+    "genero": "Animação",
+    "link": "https://www.rottentomatoes.com/m/princess_mononoke",
+    "tags": [
+      "Studio Ghibli",
+      "Fantasia",
+      "Épico",
+      "Meio Ambiente",
+      "Japonês",
+      "Aventura",
+      "Mitologia",
+      "Visualmente Rico",
+      "Clássico"
+    ],
+    "diretor": "Hayao Miyazaki"
+  },
+  {
+    "nome": "O Resgate do Soldado Ryan",
+    "descricao": "Seguindo o Dia D, um grupo de soldados americanos é enviado atrás das linhas inimigas para encontrar um paraquedista cujo três irmãos foram mortos em combate.",
+    "data_criacao": "1998",
+    "genero": "Guerra",
+    "link": "https://www.rottentomatoes.com/m/saving_private_ryan",
+    "tags": [
+      "Segunda Guerra Mundial",
+      "Intenso",
+      "Realista",
+      "Ação Militar",
+      "Spielberg",
+      "Clássico Moderno",
+      "Comovente",
+      "Batalha"
+    ],
+    "diretor": "Steven Spielberg"
+  },
+  {
+    "nome": "Alien, o Oitavo Passageiro",
+    "descricao": "A tripulação de uma nave comercial espacial investiga um sinal de socorro em um planeta distante e encontra uma forma de vida predatória perfeita.",
+    "data_criacao": "1979",
+    "genero": "Ficção Científica",
+    "link": "https://www.rottentomatoes.com/m/alien",
+    "tags": [
+      "Sci-Fi Clássico",
+      "Terror",
+      "Tensão",
+      "Espaço",
+      "Suspense",
+      "Criatura",
+      "Feminismo",
+      "Ridley Scott"
+    ],
+    "diretor": "Ridley Scott"
+  },
+  {
+    "nome": "O Exterminador do Futuro 2: O Julgamento Final",
+    "descricao": "Um T-1000, um Exterminador avançado feito de metal líquido, é enviado do futuro para matar um jovem John Connor. Outro Exterminador, o T-800, é enviado para protegê-lo.",
+    "data_criacao": "1991",
+    "genero": "Ação",
+    "link": "https://www.rottentomatoes.com/m/terminator_2_judgment_day",
+    "tags": [
+      "Sci-Fi",
+      "Ação Pura",
+      "Efeitos Especiais",
+      "James Cameron",
+      "Clássico",
+      "Ciborgues",
+      "Futuro Distópico",
+      "Adrenalina"
+    ],
+    "diretor": "James Cameron"
+  },
+  {
+    "nome": "Lost in Translation",
+    "descricao": "Um ator em declínio e uma jovem recém-casada formam um vínculo improvável em Tóquio, Japão, enquanto lidam com o isolamento e a mudança em suas vidas.",
+    "data_criacao": "2003",
+    "genero": "Comédia Dramática",
+    "link": "https://www.rottentomatoes.com/m/lost_in_translation",
+    "tags": [
+      "Melancolia",
+      "Japão",
+      "Romance sutil",
+      "Indie",
+      "Sofia Coppola",
+      "Solidão",
+      "Diálogo",
+      "Reflexivo"
+    ],
+    "diretor": "Sofia Coppola"
+  },
+  {
+    "nome": "Requiem para um Sonho",
+    "descricao": "As vidas de quatro indivíduos se entrelaçam em uma busca desesperada e viciante pelo amor e pela felicidade, levando a consequências trágicas.",
+    "data_criacao": "2000",
+    "genero": "Drama",
+    "link": "https://www.rottentomatoes.com/m/requiem_for_a_dream",
+    "tags": [
+      "Vício",
+      "Intenso",
+      "Desesperador",
+      "Psicológico",
+      "Perturbador",
+      "Sombrio",
+      "Cinéfilo",
+      "Impactante",
+      "Drama Pesado"
+    ],
+    "diretor": "Darren Aronofsky"
+  },
+  {
+    "nome": "Snatch: Porcos e Diamantes",
+    "descricao": "Atores inexperientes e promotores de boxe se misturam com gangsteres, ciganos e um roubo de diamante de oito quilates no submundo de Londres.",
+    "data_criacao": "2000",
+    "genero": "Comédia de Ação",
+    "link": "https://www.rottentomatoes.com/m/snatch",
+    "tags": [
+      "Crime",
+      "Comédia Negra",
+      "Diálogos Rápidos",
+      "Britânico",
+      "Cult",
+      "Violência Estilizada",
+      "Engraçado"
+    ],
+    "diretor": "Guy Ritchie"
+  },
+  {
+    "nome": "A Forma da Água",
+    "descricao": "Em um laboratório secreto do governo em 1962, uma zeladora muda se apaixona por uma criatura anfíbia capturada.",
+    "data_criacao": "2017",
+    "genero": "Fantasia",
+    "link": "https://www.rottentomatoes.com/m/the_shape_of_water",
+    "tags": [
+      "Romance",
+      "Fantasia",
+      "Vencedor do Oscar",
+      "Del Toro",
+      "Ficção",
+      "Monstros",
+      "Anos 60",
+      "Visualmente Lindo"
+    ],
+    "diretor": "Guillermo del Toro"
+  },
+  {
+    "nome": "Amadeus",
+    "descricao": "A rivalidade fictícia entre Antonio Salieri e Wolfgang Amadeus Mozart na Viena do século XVIII.",
+    "data_criacao": "1984",
+    "genero": "Biografia",
+    "link": "https://www.rottentomatoes.com/m/amadeus",
+    "tags": [
+      "Música Clássica",
+      "Vencedor do Oscar",
+      "Épico",
+      "Histórico",
+      "Drama",
+      "Biografia",
+      "Ciúme",
+      "Arte"
+    ],
+    "diretor": "Milos Forman"
+  },
+  {
+    "nome": "Janela Indiscreta",
+    "descricao": "Um fotógrafo de cadeira de rodas espia seus vizinhos e acredita ter testemunhado um assassinato.",
+    "data_criacao": "1954",
+    "genero": "Suspense",
+    "link": "https://www.rottentomatoes.com/m/rear_window",
+    "tags": [
+      "Hitchcock",
+      "Suspense Clássico",
+      "Tenso",
+      "Mistério",
+      "Espionagem",
+      "Noir",
+      "Nova York"
+    ],
+    "diretor": "Alfred Hitchcock"
+  },
+  {
+    "nome": "Um Corpo Que Cai",
+    "descricao": "Um ex-detetive de São Francisco, atormentado pelo medo de altura, é contratado para seguir a esposa de um conhecido, mas se apaixona por ela.",
+    "data_criacao": "1958",
+    "genero": "Suspense Psicológico",
+    "link": "https://www.rottentomatoes.com/m/vertigo",
+    "tags": [
+      "Hitchcock",
+      "Clássico",
+      "Mistério",
+      "Obsessão",
+      "Psicológico",
+      "Cinéfilo",
+      "San Francisco"
+    ],
+    "diretor": "Alfred Hitchcock"
+  },
+  {
+    "nome": "Cidadão Kane",
+    "descricao": "Um repórter investiga a vida de Charles Foster Kane, um magnata da mídia, procurando descobrir o significado de sua última palavra: 'Rosebud'.",
+    "data_criacao": "1941",
+    "genero": "Drama",
+    "link": "https://www.rottentomatoes.com/m/citizen_kane",
+    "tags": [
+      "Clássico Absoluto",
+      "Influente",
+      "Drama",
+      "Jornalismo",
+      "Épico",
+      "Orson Welles",
+      "Estrutura Narrativa"
+    ],
+    "diretor": "Orson Welles"
+  },
+  {
+    "nome": "Metrópolis",
+    "descricao": "Em uma cidade futurista distópica, um operário descobre o submundo sombrio e o conflito de classes que se esconde sob a fachada brilhante da cidade.",
+    "data_criacao": "1927",
+    "genero": "Ficção Científica",
+    "link": "https://www.rottentomatoes.com/m/metropolis",
+    "tags": [
+      "Filme Mudo",
+      "Clássico",
+      "Distopia",
+      "Visualmente Inovador",
+      "Alegórico",
+      "Sci-Fi",
+      "Pioneiro",
+      "Arte"
+    ],
+    "diretor": "Fritz Lang"
+  },
+  {
+    "nome": "Dr. Fantástico",
+    "descricao": "Um general paranoico da Força Aérea dos EUA ordena um ataque nuclear preventivo contra a União Soviética, e o Presidente dos EUA e sua equipe tentam impedir uma catástrofe.",
+    "data_criacao": "1964",
+    "genero": "Comédia Satírica",
+    "link": "https://www.rottentomatoes.com/m/dr_strangelove",
+    "tags": [
+      "Comédia de Erros",
+      "Guerra Fria",
+      "Sátira",
+      "Kubrick",
+      "Clássico",
+      "Humor Negro",
+      "Política",
+      "Apocalipse"
+    ],
+    "diretor": "Stanley Kubrick"
+  },
+  {
+    "nome": "Rashomon",
+    "descricao": "Um crime – o assassinato de um samurai e o estupro de sua esposa – é contado de quatro perspectivas conflitantes: o bandido, a esposa, o samurai (através de um médium) e um lenhador.",
+    "data_criacao": "1950",
+    "genero": "Drama",
+    "link": "https://www.rottentomatoes.com/m/rashomon",
+    "tags": [
+      "Japonês",
+      "Kurosawa",
+      "Clássico",
+      "Filosofia",
+      "Narrativa Complexa",
+      "Mistério",
+      "Verdade",
+      "Inovador"
+    ],
+    "diretor": "Akira Kurosawa"
+  },
+  {
+    "nome": "Filhos da Esperança",
+    "descricao": "Em um futuro distópico onde a infertilidade devastou a população mundial, um ex-ativista deve ajudar uma mulher grávida, a primeira em 18 anos, a escapar do país.",
+    "data_criacao": "2006",
+    "genero": "Ficção Científica",
+    "link": "https://www.rottentomatoes.com/m/children_of_men",
+    "tags": [
+      "Distopia",
+      "Ação",
+      "Plano Sequência",
+      "Intenso",
+      "Futuro",
+      "Mundo em Colapso",
+      "Esperança",
+      "Alfonso Cuarón"
+    ],
+    "diretor": "Alfonso Cuarón"
+  },
+  {
+    "nome": "Fargo",
+    "descricao": "Em 1987, um gerente de vendas de carros endividado contrata dois homens para sequestrar sua esposa para que ele possa coletar o resgate da família rica dela. O crime logo dá terrivelmente errado.",
+    "data_criacao": "1996",
+    "genero": "Crime",
+    "link": "https://www.rottentomatoes.com/m/fargo",
+    "tags": [
+      "Comédia Negra",
+      "Irmãos Coen",
+      "Minnesota",
+      "Violência",
+      "Cult",
+      "Sarcástico",
+      "Inverno",
+      "Vencedor do Oscar"
+    ],
+    "diretor": "Joel Coen"
+  },
+  {
+    "nome": "Os Infiltrados",
+    "descricao": "Um policial disfarçado e um informante da máfia se infiltram um no território do outro no esforço de derrubar um poderoso chefão do crime de Boston.",
+    "data_criacao": "2006",
+    "genero": "Crime",
+    "link": "https://www.rottentomatoes.com/m/departed",
+    "tags": [
+      "Máfia",
+      "Boston",
+      "Policial",
+      "Scorsese",
+      "Intenso",
+      "Vencedor do Oscar",
+      "Thriller",
+      "Identidade"
+    ],
+    "diretor": "Martin Scorsese"
+  },
+  {
+    "nome": "Birdman ou (A Inesperada Virtude da Ignorância)",
+    "descricao": "Um ator, famoso por interpretar um super-herói icônico no passado, luta para montar uma peça na Broadway e recuperar sua glória passada.",
+    "data_criacao": "2014",
+    "genero": "Comédia Dramática",
+    "link": "https://www.rottentomatoes.com/m/birdman",
+    "tags": [
+      "Plano Sequência",
+      "Vencedor do Oscar",
+      "Teatro",
+      "Fama",
+      "Ego",
+      "Metafilme",
+      "Comédia Negra",
+      "Inovador"
+    ],
+    "diretor": "Alejandro G. Iñárritu"
+  },
+  {
+    "nome": "Moonlight: Sob a Luz do Luar",
+    "descricao": "Uma crônica da infância, adolescência e idade adulta de um jovem afro-americano que luta com sua identidade e sexualidade enquanto cresce em um bairro perigoso de Miami.",
+    "data_criacao": "2016",
+    "genero": "Drama",
+    "link": "https://www.rottentomatoes.com/m/moonlight_2016",
+    "tags": [
+      "LGBTQ+",
+      "Vencedor do Oscar",
+      "Crescimento",
+      "Poético",
+      "Sensível",
+      "Miami",
+      "Identidade",
+      "Comovente",
+      "Visualmente Bonito"
+    ],
+    "diretor": "Barry Jenkins"
+  },
+  {
+    "nome": "Roma",
+    "descricao": "Um retrato vívido da vida de uma família de classe média na Cidade do México no início dos anos 1970, focado na empregada doméstica da família.",
+    "data_criacao": "2018",
+    "genero": "Drama Histórico",
+    "link": "https://www.rottentomatoes.com/m/roma_2018",
+    "tags": [
+      "Mexicanos",
+      "Cuarón",
+      "Preto e Branco",
+      "Cinema Arte",
+      "Íntimo",
+      "Vencedor do Oscar",
+      "Anos 70",
+      "Social"
+    ],
+    "diretor": "Alfonso Cuarón"
+  },
+  {
+    "nome": "Corra!",
+    "descricao": "Um jovem negro visita a propriedade de sua namorada branca e rica para um fim de semana e descobre que a família dela esconde um segredo perturbador.",
+    "data_criacao": "2017",
+    "genero": "Terror",
+    "link": "https://www.rottentomatoes.com/m/get_out",
+    "tags": [
+      "Suspense",
+      "Comédia Negra",
+      "Crítica Social",
+      "Inovador",
+      "Jordan Peele",
+      "Assustador",
+      "Inteligente"
+    ],
+    "diretor": "Jordan Peele"
+  },
+  {
+    "nome": "Três Anúncios Para um Crime",
+    "descricao": "Uma mãe em luto decide confrontar as autoridades locais alugando três outdoors com mensagens controversas para pressionar a investigação do assassinato de sua filha.",
+    "data_criacao": "2017",
+    "genero": "Drama",
+    "link": "https://www.rottentomatoes.com/m/three_billboards_outside_ebbing_missouri",
+    "tags": [
+      "Comédia Negra",
+      "Vencedor do Oscar",
+      "Missouri",
+      "Luto",
+      "Vingança",
+      "Diálogos Afiados",
+      "Emocionante"
+    ],
+    "diretor": "Martin McDonagh"
+  },
+  {
+    "nome": "Me Chame Pelo Seu Nome",
+    "descricao": "No verão de 1983, na Itália, um romance floresce entre um estudante de 17 anos e o assistente de pesquisa de seu pai.",
+    "data_criacao": "2017",
+    "genero": "Romance",
+    "link": "https://www.rottentomatoes.com/m/call_me_by_your_name",
+    "tags": [
+      "LGBTQ+",
+      "Itália",
+      "Verão",
+      "Sensível",
+      "Poético",
+      "Primeiro Amor",
+      "Drama",
+      "Visualmente Estonteante"
+    ],
+    "diretor": "Luca Guadagnino"
+  },
+  {
+    "nome": "A Vida É Bela",
+    "descricao": "Um judeu italiano deve usar sua imaginação fértil para proteger seu filho dos horrores de um campo de concentração nazista.",
+    "data_criacao": "1997",
+    "genero": "Drama de Guerra",
+    "link": "https://www.rottentomatoes.com/m/life_is_beautiful",
+    "tags": [
+      "Holocausto",
+      "Comovente",
+      "Guerra",
+      "Itália",
+      "Vencedor do Oscar",
+      "Pai e Filho",
+      "Triste",
+      "Esperança"
+    ],
+    "diretor": "Roberto Benigni"
+  },
+  {
+    "nome": "Herói",
+    "descricao": "Um espadachim sem nome chega a uma cidade e informa o prefeito que derrotou os três assassinos mais perigosos do Império Qin. O filme conta as versões conflitantes de sua história.",
+    "data_criacao": "2002",
+    "genero": "Ação",
+    "link": "https://www.rottentomatoes.com/m/hero",
+    "tags": [
+      "Wuxia",
+      "Chinês",
+      "Artes Marciais",
+      "Visualmente Espetacular",
+      "Épico",
+      "Histórico",
+      "Coreografia"
+    ],
+    "diretor": "Zhang Yimou"
+  },
+  {
+    "nome": "A Partida",
+    "descricao": "Um violoncelista desempregado encontra trabalho como nakodo (encarregado de rituais funerários) e descobre um novo propósito na vida, apesar do estigma social.",
+    "data_criacao": "2008",
+    "genero": "Drama",
+    "link": "https://www.rottentomatoes.com/m/departures",
+    "tags": [
+      "Japonês",
+      "Cultura",
+      "Morte",
+      "Sensível",
+      "Vencedor do Oscar",
+      "Melancolia",
+      "Trabalho"
+    ],
+    "diretor": "Yojiro Takita"
+  },
+  {
+    "nome": "O Túmulo dos Vagalumes",
+    "descricao": "Durante a Segunda Guerra Mundial no Japão, dois irmãos órfãos lutam para sobreviver após a morte de sua mãe em um bombardeio.",
+    "data_criacao": "1988",
+    "genero": "Animação",
+    "link": "https://www.rottentomatoes.com/m/grave_of_the_fireflies",
+    "tags": [
+      "Studio Ghibli",
+      "Guerra",
+      "Trágico",
+      "Comovente",
+      "Japonês",
+      "Infância",
+      "Anti-Guerra",
+      "Devastador"
+    ],
+    "diretor": "Isao Takahata"
+  },
+  {
+    "nome": "Boyhood: Da Infância à Juventude",
+    "descricao": "Filmado ao longo de 12 anos com o mesmo elenco, este filme narra a vida de um menino, Mason, desde a infância até a entrada na faculdade.",
+    "data_criacao": "2014",
+    "genero": "Drama",
+    "link": "https://www.rottentomatoes.com/m/boyhood",
+    "tags": [
+      "Inovador",
+      "Crescimento",
+      "Linklater",
+      "Realista",
+      "Vencedor do Oscar",
+      "Família",
+      "Tempo",
+      "Vida"
+    ],
+    "diretor": "Richard Linklater"
+  },
+  {
+    "nome": "A Rede Social",
+    "descricao": "A história da fundação do Facebook, e as batalhas legais resultantes entre seu criador, Mark Zuckerberg, e aqueles que alegaram ter participação na empresa.",
+    "data_criacao": "2010",
+    "genero": "Biografia",
+    "link": "https://www.rottentomatoes.com/m/social_network",
+    "tags": [
+      "Tecnologia",
+      "Facebook",
+      "Drama",
+      "Diálogos Afiados",
+      "Fincher",
+      "Mídia Social",
+      "Empreendedorismo"
+    ],
+    "diretor": "David Fincher"
+  },
+  {
+    "nome": "Ex Machina: Instinto Artificial",
+    "descricao": "Um jovem programador ganha a chance de passar uma semana na casa de campo de seu CEO, onde ele deve participar de um teste com a mais nova inteligência artificial: uma androide feminina.",
+    "data_criacao": "2014",
+    "genero": "Ficção Científica",
+    "link": "https://www.rottentomatoes.com/m/ex_machina",
+    "tags": [
+      "Inteligência Artificial",
+      "Thriller",
+      "Psicológico",
+      "Suspense",
+      "Tecnologia",
+      "Minimalista",
+      "Filosofia"
+    ],
+    "diretor": "Alex Garland"
+  },
+  {
+    "nome": "Blade Runner 2049",
+    "descricao": "Um novo 'blade runner', o oficial K, descobre um segredo enterrado há muito tempo que tem o potencial de mergulhar o que resta da sociedade no caos.",
+    "data_criacao": "2017",
+    "genero": "Ficção Científica",
+    "link": "https://www.rottentomatoes.com/m/blade_runner_2049",
+    "tags": [
+      "Neo-Noir",
+      "Distopia",
+      "Visualmente Impressionante",
+      "Sci-Fi",
+      "Reflexivo",
+      "Sequência",
+      "Replicantes",
+      "Lento"
+    ],
+    "diretor": "Denis Villeneuve"
+  },
+  {
+    "nome": "Era Uma Vez no Oeste",
+    "descricao": "Um misterioso homem com gaita se junta a um bandido notório para proteger uma viúva de um assassino contratado pela ferrovia.",
+    "data_criacao": "1968",
+    "genero": "Faroeste",
+    "link": "https://www.rottentomatoes.com/m/once_upon_a_time_in_the_west",
+    "tags": [
+      "Western Clássico",
+      "Spaghetti Western",
+      "Épico",
+      "Música de Ennio Morricone",
+      "Lento",
+      "Ação",
+      "Vingança"
+    ],
+    "diretor": "Sergio Leone"
+  },
+  {
+    "nome": "Lawrence da Arábia",
+    "descricao": "A vida do enigmático T.E. Lawrence, que uniu as tribos árabes para lutar contra os turcos durante a Primeira Guerra Mundial.",
+    "data_criacao": "1962",
+    "genero": "Épico",
+    "link": "https://www.rottentomatoes.com/m/lawrence_of_arabia",
+    "tags": [
+      "Clássico",
+      "Aventura",
+      "Guerra",
+      "Deserto",
+      "Vencedor do Oscar",
+      "Visualmente Grandioso",
+      "Histórico",
+      "Biográfico"
+    ],
+    "diretor": "David Lean"
+  },
+  {
+    "nome": "Bonnie e Clyde: Uma Rajada de Balas",
+    "descricao": "A história real e violenta dos notórios ladrões de banco americanos Bonnie Parker e Clyde Barrow, que aterrorizaram o país durante a Grande Depressão.",
+    "data_criacao": "1967",
+    "genero": "Crime",
+    "link": "https://www.rottentomatoes.com/m/bonnie_and_clyde",
+    "tags": [
+      "Clássico",
+      "Revolucionário",
+      "Crime",
+      "Drama",
+      "Anos 30",
+      "Violência Estilizada",
+      "Romance"
+    ],
+    "diretor": "Arthur Penn"
+  },
+  {
+    "nome": "Noivo Neurótico, Noiva Nervosa",
+    "descricao": "O comediante Alvy Singer reflete sobre seu relacionamento com a neurótica e excêntrica Annie Hall, enquanto tenta entender por que o amor acabou.",
+    "data_criacao": "1977",
+    "genero": "Comédia Romântica",
+    "link": "https://www.rottentomatoes.com/m/annie_hall",
+    "tags": [
+      "Comédia Clássica",
+      "Woody Allen",
+      "Nova York",
+      "Romance",
+      "Diálogos",
+      "Inovador",
+      "Vencedor do Oscar"
+    ],
+    "diretor": "Woody Allen"
+  },
+  {
+    "nome": "Spotlight: Segredos Revelados",
+    "descricao": "A verdadeira história da equipe 'Spotlight' do Boston Globe, que investigou o abuso sexual de crianças pela Igreja Católica e o acobertamento pela Arquidiocese.",
+    "data_criacao": "2015",
+    "genero": "Drama",
+    "link": "https://www.rottentomatoes.com/m/spotlight",
+    "tags": [
+      "Jornalismo",
+      "Investigação",
+      "Baseado em Fatos Reais",
+      "Vencedor do Oscar",
+      "Denúncia Social",
+      "Intenso"
+    ],
+    "diretor": "Tom McCarthy"
+  },
+  {
+    "nome": "O Artista",
+    "descricao": "Em 1927, uma estrela do cinema mudo teme que a chegada dos 'filmes falados' encerre sua carreira, enquanto uma jovem atriz prospera na nova era.",
+    "data_criacao": "2011",
+    "genero": "Comédia Dramática",
+    "link": "https://www.rottentomatoes.com/m/the_artist",
+    "tags": [
+      "Filme Mudo Moderno",
+      "Preto e Branco",
+      "Vencedor do Oscar",
+      "Hollywood",
+      "Romance",
+      "Nostalgia",
+      "Charmoso"
+    ],
+    "diretor": "Michel Hazanavicius"
+  },
+  {
+    "nome": "Akira",
+    "descricao": "Um membro de uma gangue de motoqueiros futurista tenta impedir seu amigo de infância, que ganhou poderes telecinéticos após um acidente, de desmantelar a cidade Neo-Tóquio.",
+    "data_criacao": "1988",
+    "genero": "Animação",
+    "link": "https://www.rottentomatoes.com/m/akira",
+    "tags": [
+      "Anime",
+      "Ciberpunk",
+      "Sci-Fi Cult",
+      "Japonês",
+      "Violento",
+      "Distopia",
+      "Pioneiro",
+      "Visualmente Poderoso"
+    ],
+    "diretor": "Katsuhiro Ôtomo"
+  },
+  {
+    "nome": "O Pianista",
+    "descricao": "Baseado na história real de Władysław Szpilman, um pianista polonês-judeu que luta para sobreviver à destruição de Varsóvia durante a Segunda Guerra Mundial.",
+    "data_criacao": "2002",
+    "genero": "Drama",
+    "link": "https://www.rottentomatoes.com/m/the_pianist",
+    "tags": [
+      "Holocausto",
+      "Guerra",
+      "Biográfico",
+      "Comovente",
+      "Intenso",
+      "Sobrevivência",
+      "Vencedor do Oscar",
+      "Polanski"
+    ],
+    "diretor": "Roman Polanski"
+  },
+  {
+    "nome": "Tudo em Todo Lugar ao Mesmo Tempo",
+    "descricao": "Uma imigrante chinesa idosa é varrida para uma aventura insana onde só ela pode salvar o mundo, explorando outros universos e se conectando com as vidas que ela nunca viveu.",
+    "data_criacao": "2022",
+    "genero": "Ficção Científica",
+    "link": "https://www.rottentomatoes.com/m/everything_everywhere_all_at_once",
+    "tags": [
+      "Multiverso",
+      "Ação",
+      "Comédia Maluca",
+      "Vencedor do Oscar",
+      "Drama Familiar",
+      "Original",
+      "Caótico",
+      "Emocionante"
+    ],
+    "diretor": "Daniel Kwan, Daniel Scheinert"
+  },
+  {
+    "nome": "Sangue Negro",
+    "descricao": "No início do século XX, Daniel Plainview, um mineiro ambicioso, transforma-se em um magnata do petróleo, mas sua busca implacável por riqueza e poder o leva à loucura e isolamento.",
+    "data_criacao": "2007",
+    "genero": "Drama Histórico",
+    "link": "https://www.rottentomatoes.com/m/there_will_be_blood",
+    "tags": [
+      "Épico",
+      "Obsessão",
+      "Capitalismo",
+      "Faroeste Moderno",
+      "Poder",
+      "Daniel Day-Lewis"
+    ],
+    "diretor": "Paul Thomas Anderson"
+  },
+  {
+    "nome": "Meu Vizinho Totoro",
+    "descricao": "Duas jovens garotas se mudam para o campo com o pai para ficar perto da mãe hospitalizada e descobrem que sua nova casa é habitada por criaturas mágicas e amigáveis, incluindo o grande Totoro.",
+    "data_criacao": "1988",
+    "genero": "Animação",
+    "link": "https://www.rottentomatoes.com/m/my_neighbor_totoro",
+    "tags": [
+      "Fantasia",
+      "Infantil",
+      "Magia",
+      "Studio Ghibli",
+      "Conforto",
+      "Aventura",
+      "Clássico"
+    ],
+    "diretor": "Hayao Miyazaki"
+  },
+  {
+    "nome": "O Grande Hotel Budapeste",
+    "descricao": "A história de Gustave H., um lendário concierge de um famoso hotel europeu, e Zero Moustafa, o garoto de lobby que se torna seu amigo mais confiável, em meio a roubos de obras de arte e uma fortuna de família.",
+    "data_criacao": "2014",
+    "genero": "Comédia de Aventura",
+    "link": "https://www.rottentomatoes.com/m/the_grand_budapest_hotel",
+    "tags": [
+      "Excêntrico",
+      "Visualmente Estiloso",
+      "Comédia",
+      "Aventura",
+      "Europa",
+      "Wes Anderson"
+    ],
+    "diretor": "Wes Anderson"
+  },
+  {
+    "nome": "Pinóquio de Guillermo del Toro",
+    "descricao": "Uma visão sombria e mágica da clássica história italiana sobre um boneco de madeira que ganha vida e tenta corresponder às expectativas de seu criador, Geppetto, na Itália fascista.",
+    "data_criacao": "2022",
+    "genero": "Animação",
+    "link": "https://www.rottentomatoes.com/m/guillermo_del_toros_pinocchio",
+    "tags": [
+      "Stop-Motion",
+      "Musical",
+      "Sombrio",
+      "Fantasia",
+      "Fascismo",
+      "Melancólico",
+      "Guillermo del Toro"
+    ],
+    "diretor": "Guillermo del Toro"
+  },
+  {
+    "nome": "Gattaca - A Experiência Genética",
+    "descricao": "Em um futuro onde a sociedade é dividida pela genética, um homem 'inválido' assume a identidade de um 'válido' para realizar seu sonho de viajar ao espaço, arriscando ser exposto em uma investigação de assassinato.",
+    "data_criacao": "1997",
+    "genero": "Ficção Científica",
+    "link": "https://www.rottentomatoes.com/m/gattaca",
+    "tags": [
+      "Distopia",
+      "Ética",
+      "Futurista",
+      "Suspense",
+      "Melancólico",
+      "Clássico Cult"
+    ],
+    "diretor": "Andrew Niccol"
+  },
+  {
+    "nome": "Era Uma Vez na América",
+    "descricao": "A épica história de Noodles e Max, amigos de infância judeus que se tornam líderes de gangues em Nova York, contada através de múltiplas linhas do tempo, abordando temas de ganância, traição e arrependimento.",
+    "data_criacao": "1984",
+    "genero": "Crime",
+    "link": "https://www.rottentomatoes.com/m/once_upon_a_time_in_america",
+    "tags": [
+      "Épico",
+      "Gangues",
+      "Amizade",
+      "Drama",
+      "Nostalgia",
+      "Triste"
+    ],
+    "diretor": "Sergio Leone"
+  },
+  {
+    "nome": "Bastardos Inglórios",
+    "descricao": "Durante a Segunda Guerra Mundial, dois planos convergem para matar a liderança nazista: o de um grupo de soldados judeus-americanos e o de uma jovem dona de cinema buscando vingança.",
+    "data_criacao": "2009",
+    "genero": "Guerra",
+    "link": "https://www.rottentomatoes.com/m/inglourious_basterds",
+    "tags": [
+      "Tarantino",
+      "Revenge Movie",
+      "Violência Estilizada",
+      "Diálogos Afiados",
+      "História Alternativa",
+      "Tenso"
+    ],
+    "diretor": "Quentin Tarantino"
+  },
+  {
+    "nome": "O Grande Lebowski",
+    "descricao": "Jeff 'The Dude' Lebowski, um preguiçoso de Los Angeles, é confundido com um milionário de mesmo nome. Quando seu tapete é arruinado, ele exige compensação, iniciando uma bizarra aventura de sequestro e intriga.",
+    "data_criacao": "1998",
+    "genero": "Comédia",
+    "link": "https://www.rottentomatoes.com/m/the_big_lebowski",
+    "tags": [
+      "Cult",
+      "Irmãos Coen",
+      "Surreal",
+      "Absurdo",
+      "Cômico",
+      "Diálogos"
+    ],
+    "diretor": "Joel Coen"
+  },
+  {
+    "nome": "Sobre Meninos e Lobos",
+    "descricao": "Três amigos de infância, assombrados por um evento traumático do passado, se reúnem quando a filha de um deles é brutalmente assassinada, forçando-os a confrontar o luto e a sede de vingança.",
+    "data_criacao": "2003",
+    "genero": "Mistério",
+    "link": "https://www.rottentomatoes.com/m/mystic_river",
+    "tags": [
+      "Drama Pesado",
+      "Suspense",
+      "Mistério",
+      "Tragédia",
+      "Boston",
+      "Investigação",
+      "Clint Eastwood"
+    ],
+    "diretor": "Clint Eastwood"
+  },
+  {
+    "nome": "Menina de Ouro",
+    "descricao": "Uma garçonete determinada busca a ajuda de um treinador de boxe veterano e de um ex-boxeador para realizar seu sonho de se tornar uma lutadora profissional, mas uma tragédia muda suas vidas para sempre.",
+    "data_criacao": "2004",
+    "genero": "Drama Esportivo",
+    "link": "https://www.rottentomatoes.com/m/million_dollar_baby",
+    "tags": [
+      "Esportes",
+      "Luta",
+      "Melancolia",
+      "Triste",
+      "Superação",
+      "Drama"
+    ],
+    "diretor": "Clint Eastwood"
+  },
+  {
+    "nome": "Zodíaco",
+    "descricao": "Um cartunista e um jornalista se unem a um detetive para caçar o notório serial killer Zodíaco, que aterrorizou a área de São Francisco nos anos 60 e 70, em uma busca que consome suas vidas.",
+    "data_criacao": "2007",
+    "genero": "Suspense Policial",
+    "link": "https://www.rottentomatoes.com/m/zodiac",
+    "tags": [
+      "Investigação",
+      "True Crime",
+      "Obcecado",
+      "David Fincher",
+      "Mistério",
+      "Baseado em Fatos Reais",
+      "Tenso"
+    ],
+    "diretor": "David Fincher"
+  },
+  {
+    "nome": "V de Vingança",
+    "descricao": "Em uma Grã-Bretanha futurista e totalitária, um vigilante mascarado conhecido apenas como 'V' inicia uma campanha para derrubar o regime, encontrando uma aliada improvável em uma jovem.",
+    "data_criacao": "2006",
+    "genero": "Ficção Científica",
+    "link": "https://www.rottentomatoes.com/m/v_for_vendetta",
+    "tags": [
+      "Distopia",
+      "Ação",
+      "Revolução",
+      "Política",
+      "Quadrinhos",
+      "Suspense",
+      "Vingança"
+    ],
+    "diretor": "James McTeigue"
+  },
+  {
+    "nome": "O Sexto Sentido",
+    "descricao": "Um psicólogo infantil tenta ajudar um menino que afirma conseguir ver pessoas mortas, mas o terapeuta logo descobre que a verdade sobre o dom do garoto é mais chocante do que imaginava.",
+    "data_criacao": "1999",
+    "genero": "Suspense Sobrenatural",
+    "link": "https://www.rottentomatoes.com/m/sixth_sense",
+    "tags": [
+      "Plot Twist",
+      "Fantasma",
+      "Terror Psicológico",
+      "Mistério",
+      "Assustador",
+      "M. Night Shyamalan"
+    ],
+    "diretor": "M. Night Shyamalan"
+  },
+  {
+    "nome": "Donnie Darko",
+    "descricao": "Um adolescente problemático escapa por pouco de um acidente bizarro e começa a ter visões de um coelho gigante chamado Frank, que o manipula para cometer uma série de crimes, enquanto o mundo se aproxima do seu fim.",
+    "data_criacao": "2001",
+    "genero": "Ficção Científica",
+    "link": "https://www.rottentomatoes.com/m/donnie_darko",
+    "tags": [
+      "Cult",
+      "Viagem no Tempo",
+      "Adolescência",
+      "Enigmático",
+      "Sombrio",
+      "Mistério"
+    ],
+    "diretor": "Richard Kelly"
+  },
+  {
+    "nome": "Chocolate",
+    "descricao": "Uma misteriosa mãe solteira abre uma chocolataria em uma cidade francesa conservadora, desafiando a moral local e transformando a vida dos moradores com suas deliciosas criações.",
+    "data_criacao": "2000",
+    "genero": "Romance",
+    "link": "https://www.rottentomatoes.com/m/chocolat",
+    "tags": [
+      "Comida",
+      "Drama",
+      "Sensual",
+      "Pequena Cidade",
+      "Romântico",
+      "Leve"
+    ],
+    "diretor": "Lasse Hallström"
+  },
+  {
+    "nome": "Los Angeles - Cidade Proibida",
+    "descricao": "Três detetives com métodos e morais diferentes se envolvem em uma teia de corrupção, celebridades de Hollywood e prostituição de alto nível em Los Angeles dos anos 50, enquanto investigam um massacre em uma cafeteria.",
+    "data_criacao": "1997",
+    "genero": "Neo-Noir",
+    "link": "https://www.rottentomatoes.com/m/la_confidential",
+    "tags": [
+      "Policial",
+      "Corrupção",
+      "Mistério",
+      "Neo-Noir",
+      "Crime",
+      "Anos 50"
+    ],
+    "diretor": "Curtis Hanson"
+  },
+  {
+    "nome": "Os Suspeitos",
+    "descricao": "Após um violento assalto a um navio, cinco criminosos são interrogados pela polícia. O sobrevivente, Kint, conta a complexa história que os uniu e a lenda do enigmático senhor do crime, Keyser Söze.",
+    "data_criacao": "1995",
+    "genero": "Crime",
+    "link": "https://www.rottentomatoes.com/m/usual_suspects",
+    "tags": [
+      "Plot Twist",
+      "Suspense",
+      "Diálogos",
+      "Mistério",
+      "Inteligente",
+      "Crime"
+    ],
+    "diretor": "Bryan Singer"
+  },
+  {
+    "nome": "Rede de Intrigas",
+    "descricao": "Um executivo de televisão enlouquecido tem um colapso ao vivo e se torna uma sensação midiática, enquanto a executiva de notícias Diana Christensen capitaliza cinicamente sua histeria para aumentar a audiência.",
+    "data_criacao": "1976",
+    "genero": "Sátira Dramática",
+    "link": "https://www.rottentomatoes.com/m/network",
+    "tags": [
+      "Sátira",
+      "Mídia",
+      "Clássico",
+      "Drama",
+      "Previsível",
+      "Brilhante",
+      "Anos 70"
+    ],
+    "diretor": "Sidney Lumet"
+  },
+  {
+    "nome": "Crepúsculo dos Deuses",
+    "descricao": "Uma ex-estrela do cinema mudo, Norma Desmond, vive isolada em sua mansão decadente, sonhando com um retorno, e se apaixona por um roteirista falido que encontra refúgio em sua casa.",
+    "data_criacao": "1950",
+    "genero": "Film Noir",
+    "link": "https://www.rottentomatoes.com/m/sunset_blvd",
+    "tags": [
+      "Clássico",
+      "Hollywood",
+      "Drama",
+      "Decadência",
+      "Noir",
+      "Obsessão"
+    ],
+    "diretor": "Billy Wilder"
+  },
+  {
+    "nome": "Apocalypse Now",
+    "descricao": "Durante a Guerra do Vietnã, o Capitão Willard é enviado em uma perigosa missão rio acima para assassinar o Coronel Kurtz, um oficial renegado que montou seu próprio culto nas profundezas da selva.",
+    "data_criacao": "1979",
+    "genero": "Guerra",
+    "link": "https://www.rottentomatoes.com/m/apocalypse_now",
+    "tags": [
+      "Épico",
+      "Guerra do Vietnã",
+      "Psicológico",
+      "Sombrio",
+      "Viagem",
+      "Clássico",
+      "Ambicioso"
+    ],
+    "diretor": "Francis Ford Coppola"
+  },
+  {
+    "nome": "Faça a Coisa Certa",
+    "descricao": "No dia mais quente do verão no Brooklyn, as tensões raciais aumentam entre a comunidade afro-americana e a família ítalo-americana proprietária de uma pizzaria, culminando em uma tragédia.",
+    "data_criacao": "1989",
+    "genero": "Drama Social",
+    "link": "https://www.rottentomatoes.com/m/do_the_right_thing",
+    "tags": [
+      "Social",
+      "Racismo",
+      "Nova York",
+      "Quente",
+      "Conflito",
+      "Spike Lee",
+      "Crítica"
+    ],
+    "diretor": "Spike Lee"
+  },
+  {
+    "nome": "Dunkirk",
+    "descricao": "Durante a Segunda Guerra Mundial, centenas de milhares de soldados Aliados são cercados por forças inimigas e precisam ser evacuados da praia e do porto de Dunkirk, na França.",
+    "data_criacao": "2017",
+    "genero": "Guerra",
+    "link": "https://www.rottentomatoes.com/m/dunkirk",
+    "tags": [
+      "Tensão",
+      "Ação",
+      "Guerra",
+      "Christopher Nolan",
+      "História Real",
+      "Visualmente Impressionante"
+    ],
+    "diretor": "Christopher Nolan"
+  },
+  {
+    "nome": "Gênio Indomável",
+    "descricao": "Will Hunting, um jovem gênio com problemas de temperamento, trabalha como zelador no MIT. Quando seu talento matemático é descoberto, ele é forçado a procurar terapia para evitar a prisão, encontrando um mentor improvável.",
+    "data_criacao": "1997",
+    "genero": "Drama",
+    "link": "https://www.rottentomatoes.com/m/good_will_hunting",
+    "tags": [
+      "Inteligente",
+      "Amizade",
+      "Superação",
+      "Diálogos",
+      "Academia",
+      "Drama"
+    ],
+    "diretor": "Gus Van Sant"
+  },
+  {
+    "nome": "Cães de Aluguel",
+    "descricao": "Após um assalto a joalheria dar terrivelmente errado, os criminosos sobreviventes se reúnem em um armazém para descobrir quem foi o informante da polícia, em meio a banhos de sangue e traições.",
+    "data_criacao": "1992",
+    "genero": "Crime",
+    "link": "https://www.rottentomatoes.com/m/reservoir_dogs",
+    "tags": [
+      "Tarantino",
+      "Violento",
+      "Diálogos",
+      "Cult",
+      "Não Linear",
+      "Crime"
+    ],
+    "diretor": "Quentin Tarantino"
+  },
+  {
+    "nome": "Amnésia",
+    "descricao": "Um homem sofre de uma forma rara de amnésia que o impede de criar novas memórias. Ele tenta desesperadamente rastrear o assassino de sua esposa usando um sistema de anotações, fotos instantâneas e tatuagens.",
+    "data_criacao": "2000",
+    "genero": "Suspense",
+    "link": "https://www.rottentomatoes.com/m/memento",
+    "tags": [
+      "Não Linear",
+      "Inteligente",
+      "Mistério",
+      "Plot Twist",
+      "Thriller Psicológico",
+      "Complexo"
+    ],
+    "diretor": "Christopher Nolan"
+  },
+  {
+    "nome": "Cisne Negro",
+    "descricao": "Uma bailarina altamente dedicada mergulha na loucura enquanto se prepara para o papel duplo de Rainha Cisne e Cisne Negro na produção de 'O Lago dos Cisnes', lutando contra sua rival e suas próprias psicoses.",
+    "data_criacao": "2010",
+    "genero": "Thriller Psicológico",
+    "link": "https://www.rottentomatoes.com/m/black_swan",
+    "tags": [
+      "Obsessão",
+      "Ballet",
+      "Tenso",
+      "Visualmente Estiloso",
+      "Drama",
+      "Sombrio"
+    ],
+    "diretor": "Darren Aronofsky"
+  },
+  {
+    "nome": "Toy Story",
+    "descricao": "O primeiro filme de longa-metragem totalmente feito por computador. O cowboy de brinquedo Woody se sente ameaçado quando o novo e moderno patrulheiro espacial Buzz Lightyear se torna o favorito de seu dono, Andy.",
+    "data_criacao": "1995",
+    "genero": "Animação",
+    "link": "https://www.rottentomatoes.com/m/toy_story",
+    "tags": [
+      "Infantil",
+      "Pixar",
+      "Amizade",
+      "Aventura",
+      "Clássico",
+      "Inovador",
+      "Divertido"
+    ],
+    "diretor": "John Lasseter"
+  },
+  {
+    "nome": "Louca Obsessão",
+    "descricao": "Um famoso romancista, Paul Sheldon, é resgatado de um acidente de carro por sua 'fã número um', Annie Wilkes, uma enfermeira que o mantém em cativeiro para forçá-lo a reescrever o final de sua série de livros.",
+    "data_criacao": "1990",
+    "genero": "Suspense",
+    "link": "https://www.rottentomatoes.com/m/misery",
+    "tags": [
+      "Stephen King",
+      "Cativeiro",
+      "Tenso",
+      "Terror Psicológico",
+      "Atuação Forte",
+      "Isolamento"
+    ],
+    "diretor": "Rob Reiner"
+  },
+  {
+    "nome": "Um Sonho de Liberdade",
+    "descricao": "Após ser erroneamente condenado, um banqueiro passa vinte anos na prisão de Shawshank, onde constrói uma amizade improvável com um colega prisioneiro e orquestra uma fuga elaborada.",
+    "data_criacao": "1994",
+    "genero": "Drama",
+    "link": "https://www.rottentomatoes.com/m/shawshank_redemption",
+    "tags": [
+      "Superação",
+      "Amizade",
+      "Esperança",
+      "Prisão",
+      "Clássico",
+      "Emocionante"
+    ],
+    "diretor": "Frank Darabont"
+  },
+  {
+    "nome": "À Espera de um Milagre",
+    "descricao": "Paul Edgecomb, um guarda de prisão no corredor da morte, testemunha uma série de eventos milagrosos após a chegada de um prisioneiro gigante, mas gentil, condenado por um crime hediondo.",
+    "data_criacao": "1999",
+    "genero": "Fantasia Dramática",
+    "link": "https://www.rottentomatoes.com/m/green_mile",
+    "tags": [
+      "Stephen King",
+      "Mágico",
+      "Emocionante",
+      "Triste",
+      "Prisão",
+      "Sobrenatural",
+      "Drama"
+    ],
+    "diretor": "Frank Darabont"
+  },
+  {
+    "nome": "Conta Comigo",
+    "descricao": "Quatro garotos partem em uma aventura para encontrar o corpo de um menino desaparecido, uma jornada de autoconhecimento e amizade que marca o fim de sua infância.",
+    "data_criacao": "1986",
+    "genero": "Aventura",
+    "link": "https://www.rottentomatoes.com/m/stand_by_me",
+    "tags": [
+      "Amizade",
+      "Nostalgia",
+      "Crescer",
+      "Stephen King",
+      "Jornada",
+      "Anos 80"
+    ],
+    "diretor": "Rob Reiner"
+  },
+  {
+    "nome": "RoboCop",
+    "descricao": "Em um futuro distópico e dominado por corporações, um policial de Detroit é brutalmente assassinado e ressuscitado como um ciborgue patrulheiro da lei, o RoboCop, com vestígios de sua humanidade.",
+    "data_criacao": "1987",
+    "genero": "Ficção Científica",
+    "link": "https://www.rottentomatoes.com/m/robocop",
+    "tags": [
+      "Ação",
+      "Cult",
+      "Violento",
+      "Sátira",
+      "Anos 80",
+      "Tecnologia",
+      "Distopia"
+    ],
+    "diretor": "Paul Verhoeven"
+  },
+  {
+    "nome": "Touro Indomável",
+    "descricao": "A cinebiografia do boxeador Jake LaMotta, cuja raiva, ciúmes e apetite por autodestruição arruinaram sua carreira no ringue e sua vida pessoal.",
+    "data_criacao": "1980",
+    "genero": "Biografia",
+    "link": "https://www.rottentomatoes.com/m/raging_bull",
+    "tags": [
+      "Boxe",
+      "Preto e Branco",
+      "Drama Intenso",
+      "Biografia",
+      "Violência",
+      "Scorsese"
+    ],
+    "diretor": "Martin Scorsese"
+  },
+  {
+    "nome": "Rocky, um Lutador",
+    "descricao": "Um boxeador de baixa renda da Filadélfia tem uma chance inesperada de lutar pelo título mundial dos pesos pesados contra o campeão Apollo Creed.",
+    "data_criacao": "1976",
+    "genero": "Drama Esportivo",
+    "link": "https://www.rottentomatoes.com/m/rocky",
+    "tags": [
+      "Superação",
+      "Esportes",
+      "Motivacional",
+      "Clássico",
+      "Filadélfia",
+      "Romântico"
+    ],
+    "diretor": "John G. Avildsen"
+  },
+  {
+    "nome": "Tubarão",
+    "descricao": "Um chefe de polícia, um biólogo marinho e um caçador de tubarões se unem para caçar um enorme tubarão branco devorador de homens que está aterrorizando uma pequena cidade litorânea.",
+    "data_criacao": "1975",
+    "genero": "Suspense",
+    "link": "https://www.rottentomatoes.com/m/jaws",
+    "tags": [
+      "Terror",
+      "Aventura",
+      "Clássico",
+      "Verão",
+      "Assustador",
+      "Steven Spielberg"
+    ],
+    "diretor": "Steven Spielberg"
+  },
+  {
+    "nome": "Enigma de Outro Mundo",
+    "descricao": "Uma equipe de pesquisadores na Antártida é aterrorizada por uma criatura alienígena que pode assumir a forma de qualquer um que ela matar.",
+    "data_criacao": "1982",
+    "genero": "Terror de Ficção Científica",
+    "link": "https://www.rottentomatoes.com/m/the_thing",
+    "tags": [
+      "Body Horror",
+      "Cult",
+      "Clima Tenso",
+      "Antártida",
+      "Alien",
+      "Suspense"
+    ],
+    "diretor": "John Carpenter"
+  },
+  {
+    "nome": "O Exterminador do Futuro",
+    "descricao": "Um ciborgue assassino é enviado de 2029 para 1984 para matar Sarah Connor, cuja vida é crucial para a sobrevivência futura da raça humana. Um soldado também é enviado para protegê-la.",
+    "data_criacao": "1984",
+    "genero": "Ficção Científica de Ação",
+    "link": "https://www.rottentomatoes.com/m/terminator",
+    "tags": [
+      "Ação",
+      "Clássico",
+      "Viagem no Tempo",
+      "Cyberpunk",
+      "James Cameron",
+      "Sombrio"
+    ],
+    "diretor": "James Cameron"
+  },
+  {
+    "nome": "Cassino",
+    "descricao": "A ascensão e a queda de Ace Rothstein, um apostador profissional contratado para administrar um cassino de Las Vegas na década de 1970, e a amizade turbulenta com seu braço-direito, Nicky Santoro.",
+    "data_criacao": "1995",
+    "genero": "Crime",
+    "link": "https://www.rottentomatoes.com/m/casino",
+    "tags": [
+      "Las Vegas",
+      "Crime Organizado",
+      "Violento",
+      "Gangues",
+      "Scorsese",
+      "Drama"
+    ],
+    "diretor": "Martin Scorsese"
+  },
+  {
+    "nome": "Duro de Matar",
+    "descricao": "Um policial de Nova York, John McClane, tenta salvar reféns, incluindo sua esposa, de terroristas que tomaram um arranha-céu de Los Angeles durante uma festa de Natal.",
+    "data_criacao": "1988",
+    "genero": "Ação",
+    "link": "https://www.rottentomatoes.com/m/die_hard",
+    "tags": [
+      "Clássico de Ação",
+      "Natal",
+      "Um Homem Só",
+      "Tenso",
+      "Explosivo",
+      "Suspense"
+    ],
+    "diretor": "John McTiernan"
+  },
+  {
+    "nome": "Kill Bill: Volume 1",
+    "descricao": "Uma assassina acorda de um coma de quatro anos e jura vingança contra a equipe de assassinos que a traiu, culminando em uma tentativa brutal de matá-la e o bebê que ela carregava.",
+    "data_criacao": "2003",
+    "genero": "Ação",
+    "link": "https://www.rottentomatoes.com/m/kill_bill_vol_1",
+    "tags": [
+      "Vingança",
+      "Artes Marciais",
+      "Estilizado",
+      "Violento",
+      "Tarantino",
+      "Samurai"
+    ],
+    "diretor": "Quentin Tarantino"
+  },
+  {
+    "nome": "Up - Altas Aventuras",
+    "descricao": "Um viúvo de 78 anos amarra milhares de balões em sua casa para realizar o sonho de sua vida de viajar para as selvas da América do Sul, mas descobre que tem um jovem escoteiro como passageiro clandestino.",
+    "data_criacao": "2009",
+    "genero": "Animação",
+    "link": "https://www.rottentomatoes.com/m/up",
+    "tags": [
+      "Pixar",
+      "Aventura",
+      "Emocionante",
+      "Triste",
+      "Fofo",
+      "Viagem"
+    ],
+    "diretor": "Pete Docter"
+  },
+  {
+    "nome": "WALL-E",
+    "descricao": "Em um futuro distópico, o robô WALL-E é deixado na Terra para limpar o lixo. Ele se apaixona por um robô de exploração chamado EVE e a segue pelo espaço em uma aventura que decide o destino da humanidade.",
+    "data_criacao": "2008",
+    "genero": "Animação",
+    "link": "https://www.rottentomatoes.com/m/wall_e",
+    "tags": [
+      "Pixar",
+      "Ficção Científica",
+      "Romântico",
+      "Comovente",
+      "Ambientalismo",
+      "Distopia"
+    ],
+    "diretor": "Andrew Stanton"
+  },
+  {
+    "nome": "Antes do Amanhecer",
+    "descricao": "Um jovem americano e uma estudante francesa se conhecem em um trem e decidem passar uma noite juntos em Viena, conversando sobre a vida, o amor e o futuro, sem saber se um dia se verão novamente.",
+    "data_criacao": "1995",
+    "genero": "Romance",
+    "link": "https://www.rottentomatoes.com/m/before_sunrise",
+    "tags": [
+      "Diálogos",
+      "Romântico",
+      "Vienna",
+      "Íntimo",
+      "Série",
+      "Europa"
+    ],
+    "diretor": "Richard Linklater"
+  },
+  {
+    "nome": "Brazil: O Filme",
+    "descricao": "Em um futuro distópico controlado pela burocracia, um burocrata de baixo escalão tenta corrigir um erro de digitação, mas acaba entrando em conflito com o estado totalitário ao buscar a mulher de seus sonhos.",
+    "data_criacao": "1985",
+    "genero": "Ficção Científica",
+    "link": "https://www.rottentomatoes.com/m/brazil",
+    "tags": [
+      "Distopia",
+      "Cult",
+      "Surreal",
+      "Sátira",
+      "Burocracia",
+      "Terry Gilliam"
+    ],
+    "diretor": "Terry Gilliam"
+  },
+  {
+    "nome": "Fanny e Alexander",
+    "descricao": "Visto pelos olhos das crianças Fanny e Alexander, o filme narra a vida da rica e artística família Ekdahl em Uppsala, Suécia, no início do século XX, e a tragédia que se abate sobre eles.",
+    "data_criacao": "1982",
+    "genero": "Drama Épico",
+    "link": "https://www.rottentomatoes.com/m/fanny_and_alexander",
+    "tags": [
+      "Clássico",
+      "Suécia",
+      "Infância",
+      "Teatro",
+      "Família",
+      "Ingmar Bergman",
+      "Longa Duração"
+    ],
+    "diretor": "Ingmar Bergman"
+  },
+  {
+    "nome": "Persona",
+    "descricao": "Uma famosa atriz, que de repente parou de falar, é cuidada por uma jovem enfermeira em uma casa de praia. A enfermeira começa a perder sua própria identidade, absorvida pela personalidade da atriz.",
+    "data_criacao": "1966",
+    "genero": "Drama Psicológico",
+    "link": "https://www.rottentomatoes.com/m/persona",
+    "tags": [
+      "Psicológico",
+      "Existencialista",
+      "Clássico",
+      "Arte",
+      "Intenso",
+      "Sombrio",
+      "Identidade"
+    ],
+    "diretor": "Ingmar Bergman"
+  },
+  {
+    "nome": "Pacto de Sangue",
+    "descricao": "Um agente de seguros experiente é seduzido por uma linda mulher fatal para assassinar o marido dela e falsificar um pedido de indenização de seguro de vida, complicando-se em um plano que ele pensou ser perfeito.",
+    "data_criacao": "1944",
+    "genero": "Film Noir",
+    "link": "https://www.rottentomatoes.com/m/double_indemnity",
+    "tags": [
+      "Clássico",
+      "Noir",
+      "Crime",
+      "Fatal",
+      "Suspense",
+      "Anos 40"
+    ],
+    "diretor": "Billy Wilder"
+  },
+  {
+    "nome": "Nós",
+    "descricao": "Uma família em férias de verão se depara com aterrorizantes sósias que aparecem em sua casa, forçando-os a lutar pela sobrevivência contra as figuras misteriosas conhecidas como 'Os Amarrados'.",
+    "data_criacao": "2019",
+    "genero": "Terror",
+    "link": "https://www.rottentomatoes.com/m/us",
+    "tags": [
+      "Terror Social",
+      "Sósias",
+      "Sombrio",
+      "Mistério",
+      "Jordan Peele",
+      "Violento"
+    ],
+    "diretor": "Jordan Peele"
+  },
+  {
+    "nome": "Ghost in the Shell",
+    "descricao": "Em um Japão futurista, uma ciborgue policial de elite caça um hacker misterioso conhecido como 'Mestre dos Fantoches', que está invadindo mentes e roubando informações cruciais.",
+    "data_criacao": "1995",
+    "genero": "Anime",
+    "link": "https://www.rottentomatoes.com/m/ghost_in_the_shell",
+    "tags": [
+      "Cyberpunk",
+      "Filosofia",
+      "Animação Japonesa",
+      "Sci-Fi",
+      "Cult",
+      "Visualmente Estiloso"
+    ],
+    "diretor": "Mamoru Oshii"
+  },
+  {
+    "nome": "Pequena Miss Sunshine",
+    "descricao": "Uma família disfuncional embarca em uma hilária e caótica viagem de van pela Califórnia para levar a filha mais nova, Olive, a um concurso de beleza infantil.",
+    "data_criacao": "2006",
+    "genero": "Comédia Dramática",
+    "link": "https://www.rottentomatoes.com/m/little_miss_sunshine",
+    "tags": [
+      "Viagem",
+      "Comédia",
+      "Família Disfuncional",
+      "Independente",
+      "Comovente",
+      "Excêntrico"
+    ],
+    "diretor": "Jonathan Dayton, Valerie Faris"
+  }
+]
